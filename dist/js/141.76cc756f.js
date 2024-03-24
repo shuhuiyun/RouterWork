@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_20_project_20240319"]=self["webpackChunk_20_project_20240319"]||[]).push([[141],{9141:function(e,t,r){r.r(t),r.d(t,{default:function(){return a}});var n=r(6768);function o(e,t,r,o,s,c){return(0,n.uX)(),(0,n.CE)("div")}var s=r(8355),c={props:["id"],created(){console.log("id",this.id);const e=this.$route.params.id;s.A.get(`https://randomuser.me/api/?seed=${e}`).then((e=>{console.log(e)}))}},u=r(1241);const i=(0,u.A)(c,[["render",o]]);var a=i}}]);
+//# sourceMappingURL=141.76cc756f.js.map
